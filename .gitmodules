@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/FarronJones/GameMashFrontEnd.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/FarronJones/GameMashBackEnd.git
